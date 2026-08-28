@@ -321,5 +321,14 @@
       "Branch 'list' still exists! Remember to rename it to 'feature-list'!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1787892870.649824,
+    "completed_at": 1787892872.213907,
+    "comments": [
+      "Great work using all of the concepts you've learnt about branching to mix the messy documentation!"
+    ],
+    "status": "Completed"
   }
 ]
