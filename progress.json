@@ -276,5 +276,14 @@
       "You are missing some merges"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-forward",
+    "started_at": 1787885785.067163,
+    "completed_at": 1787885787.328491,
+    "comments": [
+      "Great job fast-forward merging only 'with-sally'!"
+    ],
+    "status": "Completed"
   }
 ]
